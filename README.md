@@ -64,7 +64,3 @@ To run the script:
 
 1. Set the working directory and file names in the script.
 2. Run the R script, and it will generate the buffer areas, process the rasters, calculate landscape metrics, and export the results as a CSV file.
-
-## License
-
-This script is provided "as is" without warranty of any kind.
